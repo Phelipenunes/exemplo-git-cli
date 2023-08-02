@@ -44,4 +44,8 @@ Adicionar/Conectar o repositório remoto ao local
 
 `git remote add origin URL`
 
+Copiando/Baixando um repositório para a máquina remota
+
+`git clone URL`
+
 
