@@ -24,6 +24,10 @@ Inicializar um repositório (Executado dentro da pasta)
 
 `git init`
 
+Renomear a branch de master para main
+
+`git branch nome novonome`
+
 Verificar status do repositório
 
 `git status`
@@ -35,5 +39,9 @@ Adicionar (tornar o arquivo rastreável) ao monitoramento do git.
 Fazer commit das alterações (salvar no histórico).
 
 `git commit -m "texto"`
+
+Adicionar/Conectar o repositório remoto ao local
+
+`git remote add origin URL`
 
 
