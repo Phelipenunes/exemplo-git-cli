@@ -6,4 +6,9 @@
 - Listar conteúdo: dir
 - Limpar tela: cls
 - Entar na pasta : cd nome da pasta
-- Adicionar (tornar arquivo rastreável): git add nome do arquivo
+
+# Comandos principais do GIT    
+
+Inicializar um repositório (Executado dentro da pasta)
+
+git init
